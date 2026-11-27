@@ -14,7 +14,7 @@ Data & AI engineer (ECE Paris). For two years at **Société Générale** (Inter
 | [**Phishing Detection**](https://github.com/informatikerVonBreuf/networksecurity) | End-to-end MLOps pipeline: leakage-free split on duplicate groups, drift checks, 5 models compared (test F1 0.959), FastAPI service, CI and Docker. | scikit-learn, MLflow, DagsHub, Docker, AWS ECR/EC2 |
 | **Folio** · [case study](https://portfolio.aldorith.com/en/) | Guarded financial chatbot over 28 SEC filings: 8-step RAG, four LangGraph agents signed with HMAC, red-team suite, Prometheus and Grafana. | Node 22, Python 3.12, React 19, Gemini |
 | [**MultiPix**](https://github.com/informatikerVonBreuf/photo-ai-platform) | Local multimodal photo search with no external API (final-year project, team of two). | TinyCLIP, Qdrant, PostgreSQL, Redis |
-| [**AfroShop Cloud AI Guard**](https://github.com/informatikerVonBreuf/Afroshop-cloud-lab) | Prompt-injection detection test bench with security logging and monitoring. | Google Cloud Run, Cloud Logging, FastAPI |
+| **AfroShop Cloud AI Guard** · [case study](https://portfolio.aldorith.com/en/) | Prompt-injection detection test bench with security logging and monitoring. | Google Cloud Run, Cloud Logging, FastAPI |
 | [**Churn prediction**](https://github.com/informatikerVonBreuf/churn-prediction) | Bank churn model built for business use: leakage-free pipeline, PR-AUC, out-of-fold decision threshold, model card. | scikit-learn, Streamlit |
 | **Yamoo Drive** · [live](https://yamoo-drive.aldorith.com/) | Car-rental site and operations space, shipped as a PWA. | HTML/CSS/JS, Three.js, Cloudflare Workers |
 
